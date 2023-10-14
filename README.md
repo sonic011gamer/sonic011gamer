@@ -1,6 +1,8 @@
 ### Hi there 👋
 - 🔭 I’m currently working on
-  -  [edk2-msm8226](https://github.com/sonic011gamer/edk2-msm8226) - just me trying to port EDK2 for *reasons*
+  -  [Mu-Samsung](https://github.com/sonic011gamer/Mu-Samsung) - bringing UEFI up for Exynos-based Samsung devices
+  -  [Mu-LegacyApple](https://github.com/sonic011gamer/Mu-LegacyApple) - project Mu for select ARMv7 Apple devices
+  -  [edk2-legacyapple](https://github.com/sonic011gamer/edk2-legacyapple) - more stable UEFI implementation for select ARMv7 Apple devices
 
 
 - 🌱 I’m currently *trying* to learn C++.
